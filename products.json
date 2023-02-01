@@ -1,0 +1,38 @@
+[
+    {
+       "id": 1,
+       "image": "product_images/jalgratas.webp",
+       "name": "jalgratas",
+       "price": "500",
+       "inventory": 7,
+       "productCode": "a"
+    },
+
+    {
+        "id": 2,
+        "image": "product_images/muld.jpg",
+        "name": "muld",
+        "price": "5",
+        "inventory": 10,
+        "productCode": "b"
+     },
+
+     {
+        "id": 3,
+        "image": "product_images/kruvi.webp",
+        "name": "kruvi",
+        "price": "1",
+        "inventory": 7,
+        "productCode": "c"
+     },
+
+     {
+        "id": 4,
+        "image": "product_images/kraanikauss.avif",
+        "name": "kraanikauss",
+        "price": "400",
+        "inventory": 7,
+        "productCode": "d"
+     }
+
+]
